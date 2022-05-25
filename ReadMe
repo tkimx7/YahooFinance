@@ -1,0 +1,2 @@
+# I publish here a sample of importing and processing data from Yahoo Finance via a parallel method in R. 
+# This was fully functional until April 29, 2022 when Yahoo Finance limited API calls. 
